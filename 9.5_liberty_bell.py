@@ -2,6 +2,7 @@
 
 import random
 import csv
+print("Hello World")
 
 # Gewinn-Tabelle einlesen als Dictionary
   # Dieser Code liest eine CSV-Datei, bei der jede Zeile aus einer Kombination von Werten und einem dazugehörigen Auszahlungsbetrag besteht.
